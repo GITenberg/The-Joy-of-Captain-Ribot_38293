@@ -1,0 +1,40 @@
+_repo: The-Joy-of-Captain-Ribot_38293
+_version: 0.1.0
+alternative_title: La alegría del capitán Ribot. English
+contributor:
+  translator:
+    agent_name: Smith, Minna Caroline
+    birthdate: 1860
+    deathdate: 1929
+    gutenberg_agent_id: '39377'
+    url: http://www.gutenberg.org/2009/agents/39377
+covers:
+- cover_type: archival
+  image_path: 38293-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Palacio Valdés, Armando
+    aliases:
+    - Valdés, Armando Palacio
+    - Palacio Valdes, Armando
+    birthdate: 1853
+    deathdate: 1938
+    gutenberg_agent_id: '4015'
+    url: http://www.gutenberg.org/2009/agents/4015
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+    - http://es.wikipedia.org/wiki/Armando_Palacio_Vald%C3%A9s
+description: ''
+gutenberg_issued: '2011-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38293'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction -- Translations into English'
+title: The Joy of Captain Ribot
+url: http://www.gutenberg.org/ebooks/38293
